@@ -1,6 +1,6 @@
 import React from "react";
 
-//home pages
+//home page
 import Banner3 from "./bannner/Banner3";
 import Partner3 from "./partner/Partner3";
 import Solution3 from "./solutions/Solution3";
