@@ -1,0 +1,43 @@
+.button-tabs{
+    // margin-bottom: 32px;
+    // padding-bottom: 15px;
+    width:100%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    //border-bottom: 1px solid #c4c4c4;
+   // color: rgb(6, 216, 137);
+    display: flex;
+    // flex: initial;
+    flex-flow: row nowrap;
+    font-size: 16px;
+   font-weight: 500;
+   height: auto;
+   //line-height: 1.25;
+   //padding-right: 17px;
+  margin-bottom: 20px;
+
+ color: #c4c4c4;
+  //   font-size: 18px;
+  //   font-weight: 500;
+    &:hover{
+        color: #fff;
+    }
+}
+.stickTab{
+    position:fixed;
+    background-color: black;
+    color: white;
+    z-index: 77;
+    width:100%;
+}
+
+.tabSticky{
+    padding-top: 100px;
+}
+.skickyclass{
+
+    width:100%;
+    background-color: black;
+
+}
